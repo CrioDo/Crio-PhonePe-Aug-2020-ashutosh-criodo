@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c187c9e6978b76b922c180f46961722f",
+    "revision": "1114b0b6a2b73dbdf5002740084e538e",
     "url": "/Crio-PhonePe-Aug-2020-ashutosh-criodo/index.html"
   },
   {
-    "revision": "3b1d43e74cbb7287a543",
+    "revision": "c047e430f616839a9061",
     "url": "/Crio-PhonePe-Aug-2020-ashutosh-criodo/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "214b74c3d1b1456c9b73",
+    "revision": "8b24c9a7235b9c69375a",
     "url": "/Crio-PhonePe-Aug-2020-ashutosh-criodo/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "3b1d43e74cbb7287a543",
-    "url": "/Crio-PhonePe-Aug-2020-ashutosh-criodo/static/js/2.67daffd4.chunk.js"
+    "revision": "c047e430f616839a9061",
+    "url": "/Crio-PhonePe-Aug-2020-ashutosh-criodo/static/js/2.1bff3003.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-PhonePe-Aug-2020-ashutosh-criodo/static/js/2.67daffd4.chunk.js.LICENSE.txt"
+    "url": "/Crio-PhonePe-Aug-2020-ashutosh-criodo/static/js/2.1bff3003.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "214b74c3d1b1456c9b73",
-    "url": "/Crio-PhonePe-Aug-2020-ashutosh-criodo/static/js/main.3571a27b.chunk.js"
+    "revision": "8b24c9a7235b9c69375a",
+    "url": "/Crio-PhonePe-Aug-2020-ashutosh-criodo/static/js/main.aaa86423.chunk.js"
   },
   {
     "revision": "151c908fca6065a97c10",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-PhonePe-Aug-2020-ashutosh-criodo/precache-manifest.79a1a88b7c5742fb7b41b4d841aa3ad5.js"
+  "/Crio-PhonePe-Aug-2020-ashutosh-criodo/precache-manifest.c23ea8611ab1c69e1712b4af6a3992d3.js"
 );
 
 self.addEventListener('message', (event) => {
